@@ -4,6 +4,7 @@
   title = "If music be the food of love"
   composer = "Henry Purcell"
   opus = "Z379b"
+  tagline = "Typeset by Chris Lamb <chris@chris-lamb.co.uk>"
 }
 
 <<
