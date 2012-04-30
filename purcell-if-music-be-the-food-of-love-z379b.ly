@@ -29,7 +29,7 @@
 			e (d4) g8 f (e4) e8 |
 			e4 (f8) g a (e d c |
 			d4) f8 (e) d (c) b (a) |
-			a2.~ r8 d |
+			a2. r8 d |
 			c8 (b4) e8 d (c4) f8 |
 			e (d4) g8 f (e4) e8 |
 			e4 (f8) g a (e d c |
