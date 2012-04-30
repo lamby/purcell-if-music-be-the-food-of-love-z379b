@@ -10,6 +10,7 @@
 	\new Staff {
 		\relative c {
 			\clef "treble"
+			\time 2/2
 			\partial 4
 			r8 e'' |
 			f (e) d (c) b (c) d (e) |
@@ -67,6 +68,8 @@
 	\new Staff {
 		\relative c {
 			\clef "bass"
+			\time 2/2
+
 			a4 |
 			a'2. g4 |
 			f d e8 f e d |
