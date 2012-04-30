@@ -8,9 +8,9 @@
 
 <<
 	\new Staff {
-		\clef "treble"
-		\partial 4
 		\relative c {
+			\clef "treble"
+			\partial 4
 			r8 e'' |
 			f (e) d (c) b (c) d (e) |
 			d (c) b (a) gis4. e8 |
@@ -65,8 +65,8 @@
 	}
 
 	\new Staff {
-		\clef "bass"
 		\relative c {
+			\clef "bass"
 			a4 |
 			a'2. g4 |
 			f d e8 f e d |
