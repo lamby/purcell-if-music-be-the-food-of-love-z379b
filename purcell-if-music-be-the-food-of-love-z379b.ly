@@ -70,30 +70,31 @@
 		\relative c {
 			\clef "bass"
 			\time 2/2
+			\key g \minor
 
-			a4 |
-			a'2. g4 |
-			f d e8 f e d |
-			c d c b a2~ |
-			a4. a8 b4 g |
-			c d e f |
-			g g, c2~ |
-			c1~ |
-			c2 g'~ |
-			g2. f4 |
-			e a d, d' |
-			c bes a f |
-			g a d,2 |
-			g4 e a a, |
-			b g c c'8 b |
-			a4 g f e |
-			d c d e |
-			a,1 |
-			g'4 e a a, |
-			b g c c'8 b |
-			a4 g f e |
-			d c d e |
-			a,1 |
+			g4 |
+			g'2. f4 |
+			ees c d8 ees d c |
+			bes c bes a g2~ |
+			g4. g8 a4 f |
+			bes c d ees |
+			f f, bes2~ |
+			bes1~ |
+			bes2 f'~ |
+			f2. ees4 |
+			d g c, c' |
+			bes gis g ees |
+			f g c,2 |
+			f4 d g g, |
+			a f bes bes'8 a |
+			g4 f ees d |
+			c bes c d |
+			g,1 |
+			f'4 d g g, |
+			a f bes bes'8 a |
+			g4 f ees d |
+			c bes c d |
+			g,1 |
 		}
 	}
 
