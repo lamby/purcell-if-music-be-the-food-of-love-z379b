@@ -53,16 +53,16 @@
 		}
 
 		\addlyrics {
-			Plea -- sures in vade both Eye and Ear,
-			So fierce So fierce So fierce So fierce
-			the tra  __ nsports are, they would
-			And all my Senses fea ~ sted are
-			And all my Senses fea ~ sted are
-			Tho' yet the Treat is only Sound
-			Sure I must perish by your Charmes
-			Unless you sa -- -- ve me in your Armes.
-			Sure I must perish by your Charmes
-			Unless you sa -- -- ve me in your Armes.
+			" " Plea -- sures_in -- vade both Eye and Ear,
+			So fierce, so fierce, so fierce, so fierce
+			the tran -- " " __ " " __ sports are, they would;
+			And all my Sen -- ses fea -- sted are,
+			And all my Sen -- ses fea -- sted are,
+			Tho' yet the Treat is on -- ly Sound.
+			Sure I must pe -- rish by your Charmes,
+			Un -- less you save me in your Armes.
+			Sure I must pe -- rish by your Charmes,
+			Un -- less you save me in your Armes.
 		}
 	}
 
