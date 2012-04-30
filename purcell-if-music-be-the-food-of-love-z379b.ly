@@ -12,30 +12,32 @@
 		\relative c {
 			\clef "treble"
 			\time 2/2
+			\key g \minor
+
 			\partial 4
-			r8 e'' |
-			f (e) d (c) b (c) d (e) |
-			d (c) b (a) gis4. e8 |
-			a4. a8 c4. c8 |
-			e4. e8 g4. a8 |
-			g (e) d (c) c (g) c4 |
-			f8 (e) d (c) c4. e8 |
-			e (c) r g g (e) g4 |
-			c e d4. g8 |
-			g (d4) b8 b (g) d'4 |
-			g4 f8 (e) f4. g8 |
-			a (e) f (d) e (a,) d4 |
-			d16 (e f8) e (d) d4 r8 d |
-			c (b4) e8 d (c4) f8 |
-			e (d4) g8 f (e4) e8 |
-			e4 (f8) g a (e d c |
-			d4) f8 (e) d (c) b (a) |
-			a2. r8 d |
-			c8 (b4) e8 d (c4) f8 |
-			e (d4) g8 f (e4) e8 |
-			e4 (f8) g a (e d c |
-			d4) f8 (e) d (c) b (a) |
-			a1 |
+			r8 d'' |
+			ees (d) c (d) a (bes) c (d) |
+			c (bes) a (g) fis4. d8 |
+			g4. g8 bes4. bes8 |
+			d4. d8 f4. g8 |
+			f (d) c (bes) bes (f) bes4 |
+			ees8 (d) c (bes) bes4. d8 |
+			d (bes) r f f (d) f4 |
+			bes d c4. f8 |
+			f (c4) a8 a (f) c'4 |
+			f4 ees8 (d) ees4. f8 |
+			g (d) ees (c) d (g,) c4 |
+			c16 (d ees8) d (c) c4 r8 c |
+			bes (a4) d8 c (bes4) ees8 |
+			d (c4) f8 ees (d4) d8 |
+			d4 (ees8) f g (d c bes |
+			c4) ees8 (d) c (bes) a (g) |
+			g2. r8 c |
+			bes8 (a4) d8 c (bes4) ees8 |
+			d (c4) f8 ees (d4) d8 |
+			d4 (ees8) f g (d c bes |
+			c4) ees8 (d) c (bes) a (g) |
+			g1 |
 			\bar "|."
 		}
 
