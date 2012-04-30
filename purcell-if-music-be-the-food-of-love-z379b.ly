@@ -28,6 +28,11 @@
 			e (d4) g8 f (e4) e8 |
 			e4 (f8) g a (e d c |
 			d4) f8 (e) d (c) b (a) |
+			a2.~ r8 d |
+			c8 (b4) e8 d (c4) f8 |
+			e (d4) g8 f (e4) e8 |
+			e4 (f8) g a (e d c |
+			d4) f8 (e) d (c) b (a) |
 			a1 |
 			\bar "|."
 		}
@@ -41,6 +46,8 @@
 			with plea -- sures that can ne -- ver cloy;
 			Your eyes, your meen, your Tongue de -- clare,
 			that you are Mu -- -- sick e -- v'ry where.
+			Your eyes, your meen, your Tongue de -- clare,
+			that you are Mu -- -- sick e -- v'ry where.
 		}
 
 		\addlyrics {
@@ -50,6 +57,8 @@
 			And all my Senses fea ~ sted are
 			And all my Senses fea ~ sted are
 			Tho' yet the Treat is only Sound
+			Sure I must perish by your Charmes
+			Unless you sa -- -- ve me in your Armes.
 			Sure I must perish by your Charmes
 			Unless you sa -- -- ve me in your Armes.
 		}
@@ -72,6 +81,11 @@
 			c bes a f |
 			g a d,2 |
 			g4 e a a, |
+			b g c c'8 b |
+			a4 g f e |
+			d c d e |
+			a,1 |
+			g'4 e a a, |
 			b g c c'8 b |
 			a4 g f e |
 			d c d e |
